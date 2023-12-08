@@ -1,0 +1,29 @@
+body {
+    background-color: dodgerblue;
+}
+.box_group{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 30px;
+font-family: sans-serif;
+margin: 50px;
+}
+.box {
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    border-radius: 15px;
+}
+.box_{
+color: grey;
+}
+.box_text{
+    width: 30px;
+    height: 20px;
+    gap: 20px; 
+}
+img{
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}

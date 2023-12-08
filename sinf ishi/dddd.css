@@ -1,0 +1,18 @@
+body{
+  background-color: tomato;  
+}
+.title_text{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.box_group{
+  display: flex;
+}
+
+.box_title{
+  /* color: white;
+  font-family: sans-serif; */
+
+}
